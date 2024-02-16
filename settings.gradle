@@ -1,2 +1,2 @@
-rootProject.name = "Bluetooth"
+rootProject.name = "scroll down to refresh"
 include ':app'
